@@ -1,0 +1,6 @@
+venv/*
+
+*.pyc
+weights/*
+data/*
+.idea/*
